@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/prixled/static/css/main.77aecfd5.chunk.css",
+    "main.css": "/prixled/static/css/main.e332fbeb.chunk.css",
     "main.js": "/prixled/static/js/main.6bf196ba.chunk.js",
     "main.js.map": "/prixled/static/js/main.6bf196ba.chunk.js.map",
     "runtime-main.js": "/prixled/static/js/runtime-main.177a776c.js",
@@ -8,9 +8,9 @@
     "static/js/2.62e73f45.chunk.js": "/prixled/static/js/2.62e73f45.chunk.js",
     "static/js/2.62e73f45.chunk.js.map": "/prixled/static/js/2.62e73f45.chunk.js.map",
     "index.html": "/prixled/index.html",
-    "precache-manifest.3c375b7617b3c761aeae199f0addce57.js": "/prixled/precache-manifest.3c375b7617b3c761aeae199f0addce57.js",
+    "precache-manifest.9b08ab85d1fa5fc17935ce51b6ec5336.js": "/prixled/precache-manifest.9b08ab85d1fa5fc17935ce51b6ec5336.js",
     "service-worker.js": "/prixled/service-worker.js",
-    "static/css/main.77aecfd5.chunk.css.map": "/prixled/static/css/main.77aecfd5.chunk.css.map",
+    "static/css/main.e332fbeb.chunk.css.map": "/prixled/static/css/main.e332fbeb.chunk.css.map",
     "static/js/2.62e73f45.chunk.js.LICENSE.txt": "/prixled/static/js/2.62e73f45.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/prixled/static/media/logo.5d5d9eef.svg",
     "static/media/theme.svg": "/prixled/static/media/theme.fbe18811.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.177a776c.js",
     "static/js/2.62e73f45.chunk.js",
-    "static/css/main.77aecfd5.chunk.css",
+    "static/css/main.e332fbeb.chunk.css",
     "static/js/main.6bf196ba.chunk.js"
   ]
 }
