@@ -1,0 +1,66 @@
+[{
+		"id": 1,
+		"style": "Palatino"
+	}, {
+		"id": 2,
+		"style": "Garamond"
+	}, {
+		"id": 3,
+		"style": "Bookman"
+	}, {
+		"id": 4,
+		"style": "Avant Garde"
+	}, {
+		"id": 5,
+		"style": "Verdana"
+	},
+
+	{
+		"id": 6,
+		"style": "Georgia"
+	}, {
+		"id": 7,
+		"style": "Comic Sans MS"
+	}, {
+		"id": 8,
+		"style": "Trebuchet MS"
+	}, {
+		"id": 9,
+		"style": "Arial Black"
+	}, {
+		"id": 10,
+		"style": "Impact"
+	}, {
+		"id": 11,
+		"style": "Helvetica"
+	}, {
+		"id": 12,
+		"style": "Arial"
+	}, {
+		"id": 13,
+		"style": "Times"
+	},
+
+	{
+		"id": 14,
+		"style": "Times New Roman"
+	}, {
+		"id": 15,
+		"style": "Courier"
+	}, {
+		"id": 16,
+		"style": "Courier New"
+	}, {
+		"id": 17,
+		"style": "Tahoma"
+	}, {
+		"id": 18,
+		"style": "Arial Black"
+	}, {
+		"id": 19,
+		"style": "Comic Sans MS"
+	}, {
+		"id": 20,
+		"style": "Impact"
+	}
+]
